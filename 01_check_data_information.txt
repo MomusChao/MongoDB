@@ -1,0 +1,6 @@
+db.stats()
+
+Annotations:
+1. dataSize: raw data size
+2. storageSize: collections size
+3. fileSize: size in Hard Disk Drive
