@@ -12,4 +12,4 @@ License
 ----
  > Momus Chao
 
-**Have good one, Hell Yeah!**
+**Have a good one, Hell Yeah!**
