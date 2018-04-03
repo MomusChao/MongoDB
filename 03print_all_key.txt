@@ -1,0 +1,2 @@
+var data = db.getCollection('').findOne();
+for (var key in data) { print (key) ; }
